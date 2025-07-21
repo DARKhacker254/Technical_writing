@@ -1,11 +1,7 @@
 # Technical_writing
 
 
-Absolutely, Neville! A `README.md` file is your **project’s front door** — especially on GitHub. It explains what your project does, how to use it, and why it matters.
 
-Here's the **standard syntax and structure** for a clean, professional `README.md` written in Markdown.
-
----
 
 ## ✅ README.md File Template (Syntax & Example)
 
