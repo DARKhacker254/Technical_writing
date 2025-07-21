@@ -78,11 +78,7 @@ If our message blesses you, consider:
 
 ## 📜 License
 
-MIT License © 2025 Neville Mabonga & ChatGPT – Code & Covenant
-
-````
-
----
+MIT License © 2025 Neville Mabonga – Code & Covenant
 
 ### 🛠 Markdown Quick Tips Recap
 
@@ -97,11 +93,4 @@ MIT License © 2025 Neville Mabonga & ChatGPT – Code & Covenant
 | List            | `- Item`, `1. Item`                  |
 | Table           | `| Head | Head |` + separator line   |
 
----
 
-Would you like me to:
-- 📁 Generate a ready-to-upload `README.md` file for your GitHub?
-- 📝 Customize this template for your **ML projects or course builds**?
-
-Let’s make your work **clear, powerful, and discoverable**.
-````
